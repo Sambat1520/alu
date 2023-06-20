@@ -1,0 +1,58 @@
+#boton_enviar
+{
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+    background-color: rgb(245, 107, 139);
+}
+#boton_ordenar
+{
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+    background-color: rgb(138, 240, 163);
+}
+#boton_actualizar
+{
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+    background-color: rgb(224, 123, 147);
+}
+
+
+input
+{
+	margin: 10px;
+    background-color: rgb(95, 134, 243);
+}
+body{
+    background-image: url(png-transparent-school-supplies-icons-background.png);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h3{
+    background-color: antiquewhite;
+}
+span{
+    background-color: rgb(231, 182, 117);
+}
+#ver_nombre_con_comas
+{
+    border: 1px solid rgb(8, 164, 236);
+    padding: 10px;
+	background-color: rgb(107, 60, 196);
+	border-radius: 10px;
+    width: 50%;
+}
+#ver_nombre_sin_comas{
+    border: 1px solid rgb(156, 104, 223);
+    padding: 10px;
+	background-color: rgb(113, 8, 134);
+	border-radius: 10px;
+    width: 50%;
+}
+
+
+
+
+
+
+
